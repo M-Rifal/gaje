@@ -1,2 +1,3 @@
 Hobi : Badminton
 Jurusan : Sistem informasi
+skill : PHP
